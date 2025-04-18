@@ -1,6 +1,6 @@
 # 👁️ Real-Time Face Detection with OpenCV
 
-Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **Python** dan **OpenCV**. Cocok untuk pemula yang ingin belajar **computer vision**!
+Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **Python** dan **OpenCV**.
 
 ---
 
