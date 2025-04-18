@@ -33,3 +33,11 @@ Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **P
    ```bash
    git clone https://github.com/username/face-detection-opencv-python.git
    cd face-detection-opencv-python
+   
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Jalankan program:
+   ```bash
+   python main.py
