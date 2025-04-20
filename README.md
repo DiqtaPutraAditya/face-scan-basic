@@ -4,10 +4,19 @@ Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **P
 
 ---
 
-## 📸 Demo
+## 📸 Diagram Explanation
 
-![Demo Face Detection](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
-> *Contoh hasil deteksi wajah dari webcam.*
+graph TD
+    A[Start] --> B[Load Haar Cascade Classifier]
+    B --> C[Capture Image from Camera]
+    C --> D[Convert to Grayscale]
+    D --> E[Detect Faces using Haar Cascade]
+    E --> F{Any Face Detected?}
+    F -- Yes --> G[Draw Rectangle on Detected Face]
+    F -- No --> H[No Face Found]
+    G --> I[Display Result]
+    H --> I
+    I --> J[Loop to Next Frame / End]
 
 ---
 
