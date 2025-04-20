@@ -4,18 +4,26 @@ Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **P
 
 ---
 
-## 📸 Diagram Explanation
+## 📸 Deskripsi
 
-Langkah | Deskripsi
-1. Start | Memulai program dan inisialisasi.
-2. Load Haar Cascade | Mengimpor model pre-trained (biasanya .xml) untuk deteksi wajah.
-3. Capture Image | Mengambil gambar dari webcam secara real-time.
-4. Convert to Grayscale | Mengubah gambar ke skala abu-abu agar lebih ringan untuk diproses.
-5. Face Detection | Mendeteksi wajah pada gambar dengan memindai area menggunakan Haar-like features.
-6. Deteksi Berhasil? | Jika ada wajah terdeteksi, lanjut; jika tidak, ulangi.
-7. Gambar Kotak di Wajah | Menggambar kotak di sekitar wajah yang terdeteksi.
-8. Tampilkan Gambar | Menampilkan hasil gambar dengan kotak wajah ke layar.
-9. Loop | Proses diulang untuk frame berikutnya.
+### 1. Start  
+Memulai program dan inisialisasi.
+### 2. Load Haar Cascade  
+Mengimpor model pre-trained (biasanya .xml) untuk deteksi wajah.
+### 3. Capture Image  
+Mengambil gambar dari webcam secara real-time.
+### 4. Convert to Grayscale  
+Mengubah gambar ke skala abu-abu agar lebih ringan untuk diproses.
+### 5. Face Detection  
+Mendeteksi wajah pada gambar dengan memindai area menggunakan Haar-like features.
+### 6. Deteksi Berhasil?  
+Jika ada wajah terdeteksi, lanjut; jika tidak, ulangi.
+### 7. Gambar Kotak di Wajah  
+Menggambar kotak di sekitar wajah yang terdeteksi.
+### 8. Tampilkan Gambar  
+Menampilkan hasil gambar dengan kotak wajah ke layar.
+### 9. Loop  
+Proses diulang untuk frame berikutnya.
 
 ---
 
