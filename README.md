@@ -57,3 +57,7 @@ Proses diulang untuk frame berikutnya.
 3. Jalankan program:
    ```bash
    python main.py
+
+## License
+
+This project uses a Haar Cascade classifier file (`haarcascade_frontalface_default.xml`) provided by [OpenCV](https://opencv.org/) under the Intel Open Source Computer Vision Library License.
