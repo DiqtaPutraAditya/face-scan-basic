@@ -47,8 +47,8 @@ Proses diulang untuk frame berikutnya.
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/face-detection-opencv-python.git
-   cd face-detection-opencv-python
+   git clone https://github.com/DiqtaPutraAditya/face-scan-basic.git
+   cd face-scan-basic
    
 2. Install dependencies:
    ```bash
