@@ -9,7 +9,7 @@ Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **P
 ### 1. Start  
 Memulai program dan inisialisasi.
 ### 2. Load Haar Cascade  
-Mengimpor model pre-trained (biasanya .xml) untuk deteksi wajah.
+Mengimpor model pre-trained (`haarcascade_frontalface_default.xml`) untuk deteksi wajah.
 ### 3. Capture Image  
 Mengambil gambar dari webcam secara real-time.
 ### 4. Convert to Grayscale  
