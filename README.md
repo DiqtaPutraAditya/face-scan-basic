@@ -2,6 +2,7 @@
 
 Sebuah project sederhana untuk mendeteksi wajah secara real-time menggunakan **Python** dan **OpenCV**.
 ![Contoh Deteksi Wajah](https://github.com/DiqtaPutraAditya/face-scan-basic/blob/main/Screenshot%20from%202025-11-12%2012-42-08.png)
+
 ---
 
 ## 📸 Deskripsi
